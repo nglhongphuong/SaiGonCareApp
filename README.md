@@ -1,5 +1,5 @@
 # **SaiGon Care Website**
-
+<img src=".\hahhaha_clinic_final\photos\home.png" ></img>
 **SaiGon Care Website** is a management system developed between October 2024 and December 2024. It is designed to streamline various clinic operations, including:
 
 - Appointment scheduling.
@@ -40,12 +40,31 @@ Saigon Care website deployed at [Saigon Care Website](https://phuongouedu.python
 
 ```bash
 # ROLE: username - password
-ADMIN: admin - 123
+ADMIN: admin1 - 123
 PATIENT: patient1 - 123
 NURSE: nurse1 - 123
-DOCTOR: doctor1 - 123
+DOCTOR: doctor1 - 1234
 ```
+- Login
+<img src=".\hahhaha_clinic_final\photos\login.png" ></img>
 
+- Reset Password
+<img src=".\hahhaha_clinic_final\photos\reset_password.png" ></img>
+
+- Register Apppointment by Patient
+<img src=".\hahhaha_clinic_final\photos\patient.png" ></img>
+
+- Manage Appointment by Nurse
+<img src=".\hahhaha_clinic_final\photos\nurse.png" ></img>
+
+- Prescription by Doctor
+<img src=".\hahhaha_clinic_final\photos\doctor.png" ></img>
+
+- Admin Dashboard
+<img src=".\hahhaha_clinic_final\photos\home_admin.png" ></img>
+
+- Manage Drugs by Admin
+<img src=".\hahhaha_clinic_final\photos\drug.png" ></img>
 
 ## Installation
 ```bash
