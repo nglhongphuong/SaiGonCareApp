@@ -35,3 +35,8 @@ cloudinary.config(
 login = LoginManager(app=app)
 
 MAX_PATIENT = 3
+
+# 9704198526191432198
+# NGUYEN VAN A
+# 07/15
+# https://sandbox.vnpayment.vn/vnpaygw-sit-testing/user/login
